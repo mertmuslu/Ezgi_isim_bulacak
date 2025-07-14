@@ -1,0 +1,12 @@
+com.example.mert_ezgi.app-core-1.6.0-0 C:\Users\Mert\.gradle\caches\8.9\transforms\48c840758b0867e74a14084fd39b5ad1\transformed\core-1.6.0\res
+com.example.mert_ezgi.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Mert\.gradle\caches\8.9\transforms\7f5db3c55b19c73836e1153bca3b2ff3\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mert_ezgi.app-jetified-window-1.0.0-beta04-2 C:\Users\Mert\.gradle\caches\8.9\transforms\93e1bd514003a8d1b21fd99c2b1b08ab\transformed\jetified-window-1.0.0-beta04\res
+com.example.mert_ezgi.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Mert\.gradle\caches\8.9\transforms\e9c3a30bd4f492e48d2d4f8bfa86ca5d\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mert_ezgi.app-debug-4 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\android\app\src\debug\res
+com.example.mert_ezgi.app-main-5 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\android\app\src\main\res
+com.example.mert_ezgi.app-pngs-6 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\generated\res\pngs\debug
+com.example.mert_ezgi.app-resValues-7 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\generated\res\resValues\debug
+com.example.mert_ezgi.app-rs-8 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\generated\res\rs\debug
+com.example.mert_ezgi.app-mergeDebugResources-9 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mert_ezgi.app-mergeDebugResources-10 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mert_ezgi.app-merged_res-11 C:\Users\Mert\Desktop\EzgiMert\mert_ezgi\build\app\intermediates\merged_res\debug

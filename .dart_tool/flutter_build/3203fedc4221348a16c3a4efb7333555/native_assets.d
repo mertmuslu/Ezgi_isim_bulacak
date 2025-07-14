@@ -1,0 +1,1 @@
+ C:\\Users\\Mert\\Desktop\\EzgiMert\\mert_ezgi\\.dart_tool\\flutter_build\\3203fedc4221348a16c3a4efb7333555\\native_assets.yaml: 
